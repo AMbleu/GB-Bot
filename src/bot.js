@@ -1,3 +1,11 @@
+//***************************************************************************
+// Discord Bot
+//Language: JavaScript
+//Purpose: To troll friends and a good laugh
+//Author: Alejadnro Martinez
+//Contributors:
+//Date Created: 9/12/202
+//*************************************************************************** */
 require('dotenv').config();
 const { Client } = require('discord.js');
 
